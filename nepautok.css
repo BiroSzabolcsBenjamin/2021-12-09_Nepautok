@@ -31,3 +31,9 @@ a{
 a:hover{
 	color: chocolate;
 }
+
+.vonal {
+	width: 680px;
+	margin-top: 10px;
+	border: 1px solid black;
+}
