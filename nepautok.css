@@ -8,6 +8,16 @@ p{
 	text-align: justify;
 }
 
+a{
+	text-decoration: none;
+	color: darkgray;
+	background-color: lightgray;
+}
+
+a:hover{
+	color: chocolate;
+}
+
 .left {
 	float: left;
 	margin-bottom: 10px;
